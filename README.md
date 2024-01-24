@@ -10,8 +10,8 @@ High-level Steps-
 
 1. AWS and GCP infra by  Aniket Kumavat
 2. EKS creation and Jenkins pipeline setup in AWS by 
-Bhavesh Dhande
- (here).
-3. Jenkins pipeline setup in GCP by  Siddhesh Patil(here)
-4. GKE creation and Route traffic using Route53 GKE and EKS by 
-Rushabh Mahale
+Bhavesh Dhande.
+3. Jenkins pipeline setup in GCP by  Siddhesh Patil.
+4. GKE creation and Route traffic using Route53 GKE and EKS by
+
+   Here is the medium blog link where all project explain: - https://medium.com/@aniketkumavat009/deploy-application-on-kubernetes-using-jenkins-multicloud-fb266bf760fd
