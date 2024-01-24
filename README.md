@@ -1,4 +1,4 @@
 # Multi-Cloud-Application-Deployment
 
 The project architecture is shown below
-https://miro.medium.com/v2/resize:fit:1400/format:webp/0*6TjyhSSJSBhQjo1w.png
+![Project-K8s](https://github.com/aniketkumavat/Multi-cloud-Application-Deployment/assets/75694201/284a0362-5fc1-4d5a-a831-eecce5f00ce5)
